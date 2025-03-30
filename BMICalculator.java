@@ -100,3 +100,13 @@ class Start {
         BMICalculation.metric();
     }
 }
+//add gui
+
+//bmi into array list to "store history"
+// say that array list is better as i can jsut append my new bmi each time instead of creating an array full of bmi variables
+
+//remove Recursion loop - go back to failed step instead of going back to starts also account for incorrect string inputs
+//for final bmi calc stuck for loop to then restart the program and set the next bmi into the next part of the arraylist using i as the arraylist value
+
+// Use while loop (true) -> Ask / prompt the user -> save the input into a variable ->  if (MassU > 2 || MassU < 1) break; -> else prompt the user again 
+// DO NOT overcomplicate 
